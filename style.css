@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+main{
+    padding: 2rem;
+    display: block;
+    width: 15rem;
+    text-align: center;
+    background-color: bisque;
+    border-radius: 2rem;
+    border: solid rgb(231, 178, 113);
+    margin: auto;
+}
+h1{
+    margin-bottom: 1rem;
+    margin-top: 0;
+}
+
+.texto{
+    margin-top: .5rem;
+    width: 13rem;
+    padding: .3rem;
+}
+
+.botao{
+    margin-top: 1rem;
+    padding: .7rem;
+    margin-bottom: 1rem;
+    
+    
+}
